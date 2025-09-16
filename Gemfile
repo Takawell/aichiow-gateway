@@ -19,7 +19,6 @@ gem "oj"
 
 gem "dotenv-rails", groups: [:development, :test]
 
-# HTTP client helpers (optional but handy)
 gem "httparty"
 
 group :development, :test do
